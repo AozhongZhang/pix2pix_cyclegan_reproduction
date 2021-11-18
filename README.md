@@ -4,3 +4,5 @@
 配置文件：config_myself.py
 数据加载文件：dataloader_myself.py
 这个是2021年九月底十月初写的，本想将pix2pix和cyclegan更加模块化，以便我后续的应用，但是因为最近过于繁忙，害怕自己误删一部分东西，所以先行备份上代码！
+我自己写的博客，我的一些理解：https://blog.csdn.net/weixin_54981518/article/details/121125318?spm=1001.2014.3001.5501
+cyclegan的因为比较难训，所以暂时没有好的示例，后续有时间会继续完善这个工作。
